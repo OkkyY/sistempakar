@@ -2,4 +2,4 @@
 ## Kelas: D4 TI 3A
 ## NPM: 1184087
 
-# Analasisi ada didalam folder masing-masing (Forward and Backward)
+# Analasisi ada didalam folder masing-masing (Forward and Backward chaining)
